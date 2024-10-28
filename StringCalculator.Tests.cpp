@@ -1,4 +1,4 @@
-#include "stringCalculator.h"
+#include "StringCalculator.h"
 #include<gtest/gtest.h>
 //TEST(TESTSUITE, TestCaseName)
 TEST(string_calculator_add, when_passed_a_single_number_returns_0_for_empty){
